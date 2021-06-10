@@ -1,5 +1,10 @@
 # C# Automation Sample
 
+## Preparation
+- Download and Install DotNet (latest version) https://dotnet.microsoft.com/download
+- Download and Install Visual Studio Code https://code.visualstudio.com/
+
+
 ## How to run
 
 -  Clone this repo
