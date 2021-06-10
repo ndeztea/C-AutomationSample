@@ -94,6 +94,9 @@ public class TestProgram
     }
 
     [Test]
+    /**
+    * Verify cancel add new computer
+    */ 
     public void TestCancelAddComputer()
     {   
         // check name is empty
